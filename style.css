@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+nav a{
+margin: 70px;
+border: 30px
+ 
+
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
